@@ -4,9 +4,9 @@
 
 ### Live Site: 
 
- [Netlify Live Site: ](https://product-review-assignment9.netlify.app/)
+ [Netlify Live Site: ](https://fanciful-squirrel-46a8d3.netlify.app/)
  
- https://product-review-assignment9.netlify.app/
+ https://fanciful-squirrel-46a8d3.netlify.app/
  
 
 
