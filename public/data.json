@@ -1,0 +1,44 @@
+[
+  {
+    "id": "11",
+    "comment": "Charles Otto Puth Jr. is an American singer, songwriter, and record producer. His initial exposure came through the viral success of his song videos uploaded to YouTube. ",
+    "admin": "Charlie Puth",
+    "ratings": "4.5",
+    "imageURL": "https://lh3.googleusercontent.com/FQPyrB2veLNFgX3jDJRCppJIO21QvqS5-aFFUhjKikNyoz7Y-XACw93aoTpYgoN72L5SeYQP30ge40F2_jCAdFA"
+  },
+  {
+    "id": "22",
+    "comment": "Justin Drew Bieber is a Canadian singer. He was discovered by American record executive Scooter Braun and signed with RBMG Records in 2008, gaining recognition with the release of his debut seven-track EP My World and soon establishing himself as a teen idol.",
+    "admin": "Justin Beiber",
+    "ratings": "4.5",
+    "imageURL": "https://lh3.googleusercontent.com/pW7Jv2o8g0bkXFi11hrumm_N0e7KAf5pc5bawoSdD44uTLAYQi-Eeh1t1HileeiMx-9pXN6hQROW-OBEzWQWcEs2"
+  },
+  {
+    "id": "33",
+    "comment": " Marshall Bruce Mathers III, known professionally as Eminem, is an American rapper, songwriter, and record producer. Eminem is among the best-selling music artists of all time, with estimated worldwide sales of over 220 million records \n",
+    "admin": "Eminem",
+    "ratings": "4.5",
+    "imageURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSusoQHrrN1QD_DMEYP5yYn1bBI-oj7rnnA7WeK7429w1NyCeYV"
+  },
+  {
+    "id": "44",
+    "comment": "Chester Charles Bennington was an American singer, songwriter, and occasional actor. He was best known as the lead vocalist of Linkin Park, but was also the lead vocalist of the bands Grey Daze, Dead by Sunrise, and Stone Temple Pilots ... \n",
+    "admin": "Chester Bennington",
+    "ratings": "4.5",
+    "imageURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS44fgE-52Re04xQrHJg-Hr8Y43FBRFi6r1rf-tIw-AniCzXVFz"
+  },
+  {
+    "id": "55",
+    "comment": " Zain Javadd Malik, known mononymously as Zayn, is a British singer. Born and raised in Bradford, Malik auditioned as a solo contestant for the British music competition television series The X Factor in 2010.\n",
+    "admin": "Zayn Malik",
+    "ratings": "4.5",
+    "imageURL": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeMpXfU32sanv-E8zU4lbHeeiMyr_o_rAivHJbLA39HkHJ167H"
+  },
+  {
+    "id": "66",
+    "comment": "Kyrre Gørvell-Dahll, better known by his stage name Kygo, is a Norwegian DJ, songwriter and record producer. He garnered international attention with his December 2013 remix of the track by Ed Sheeran and his December 2014 single  featuring Conrad Sewell.\n",
+    "admin": "Kygo",
+    "ratings": "4.5",
+    "imageURL": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQtjWLFwagTPMMzyyiAPVADhrQya5Mtl6zilx_nYWQTPFKVxVWOFVIBzKQCITbf"
+  }
+]
